@@ -1,4 +1,4 @@
-<div align="center">
+
 
 # Experiment 2 — Performance Analysis of Virtual Machines and Containers
 ### Ubuntu VM on VMware Workstation vs Docker Containers
@@ -12,7 +12,7 @@
 ![Disk](https://img.shields.io/badge/Disk-fio%203.36-0d9488)
 ![Peak](https://img.shields.io/badge/Peak%20CPU-6826%20events%2Fs-7c3aed)
 
-</div>
+
 
 ---
 
@@ -729,7 +729,7 @@ As the lab manual stresses, neither VMs nor containers are assumed to be "better
 ## 20. Repository Structure and Reproduction
 
 ```text
-CC_Experiment_2/
+CC-LAB-EXP2-DOCKER/
 ├── README.md                         ← this report
 ├── .gitignore
 ├── screenshots/                      ← 25 screenshots, renamed in execution order (01 … 25)
